@@ -1,6 +1,10 @@
 
 <h1 align="center">Hi there 👋, my name is Junior</h1>
 <h3 align="center"> A passionate Geographic Engineering from Peru 🇵🇪 </h3>
+
+<a href="https://www.linkedin.com/in/antonybarja/">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+
 <div style="display: flex;">
   <p align="center">
     <img src="https://user-images.githubusercontent.com/51866276/235061248-36767a6d-2d9b-4702-9078-a8c9f34266a9.png" alt="Descripción de la imagen 1" style="width: 70%;">
