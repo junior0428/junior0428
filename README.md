@@ -4,7 +4,7 @@
 ### ¡Hola! Soy Rishav Chanda 👋
 
 <p align="center">
-  <img src="[ruta_de_la_imagen](https://user-images.githubusercontent.com/51866276/235061248-36767a6d-2d9b-4702-9078-a8c9f34266a9.png)" alt="Descripción de la imagen">
+  <img src="https://user-images.githubusercontent.com/51866276/235061248-36767a6d-2d9b-4702-9078-a8c9f34266a9.png" alt="Descripción de la imagen">
 </p>
 
 
