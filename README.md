@@ -36,6 +36,20 @@
 <br />
 
 [sitio-web]: https://rishavchanda.github.io
-[linkedin]:
+[linkedin]:https://www.linkedin.com/in/rishavchanda
+[twitter]: https://twitter.com/rishavchanda_
+[instagram]: https://www.instagram.com/rishavchanda_
+
+[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[python]: https://www.python.org/
+[java]: https://www.java.com/
+[cpp]: https://en.cppreference.com/
+[git]: https://git-scm.com/
+[github]: https://github.com/
+[vscode]: https://code.visualstudio.com/
+[linux]: https://www.linux.org/
+[mysql]: https://www.mysql.com/
 
 
