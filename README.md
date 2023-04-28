@@ -1,4 +1,5 @@
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/51866276/235060281-f4c3be74-41d2-4932-86cd-f99b00a0d27c.png)
+
 ### ¡Hola! Soy Rishav Chanda 👋
 
 ## ¡Soy estudiante, desarrollador y entusiasta de la tecnología!
