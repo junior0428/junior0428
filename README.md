@@ -7,7 +7,7 @@
 
 <div style="display: flex;">
   <img src="https://user-images.githubusercontent.com/51866276/235061248-36767a6d-2d9b-4702-9078-a8c9f34266a9.png" alt="Descripción de la imagen 1" style="width: 50%;">
-  <img src="https://user-images.githubusercontent.com/51866276/235063064-64495e15-7f01-4edf-bdaa-bbf397254c29.png" alt="Descripción de la imagen 2" style="width: 50%;">
+  <img src="https://user-images.githubusercontent.com/51866276/235063064-64495e15-7f01-4edf-bdaa-bbf397254c29.png" alt="Descripción de la imagen 2" style="width: 10%;">
 </div>
 
 ## ¡Soy estudiante, desarrollador y entusiasta de la tecnología!
