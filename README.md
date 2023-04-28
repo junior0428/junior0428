@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/51866276/235060281-f4c3be74-41d2-4932-86cd-f99b00a0d27c.png)
+![image](https://user-images.githubusercontent.com/51866276/235060281-f4c3be74-41d2-4932-86cd-f99b00a0d27c.png) ![image](https://user-images.githubusercontent.com/51866276/235060673-a00347a1-8674-4afd-a55d-a83a956cbac9.png)
+
 
 ### ¡Hola! Soy Rishav Chanda 👋
 
