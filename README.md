@@ -1,5 +1,6 @@
+<p align="center">
 ![image](https://user-images.githubusercontent.com/51866276/235061248-36767a6d-2d9b-4702-9078-a8c9f34266a9.png)
-
+</p>
 ### ¡Hola! Soy Rishav Chanda 👋
 
 ## ¡Soy estudiante, desarrollador y entusiasta de la tecnología!
