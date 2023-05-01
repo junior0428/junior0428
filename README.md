@@ -2,6 +2,8 @@
 <h1 align="center">Hi there 👋, my name is Junior</h1>
 <h3 align="center"> A passionate Geographic Engineering from Peru 🇵🇪 </h3>
 
+<h3 align="left"> 📪 Reach me out!</h3>
+
 <p align="center">
    <a href="https://www.linkedin.com/in/junior-antonio-calvo-monta%C3%B1ez-3a0897183/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
    <a href="https://twitter.com/junior_28_199"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
@@ -9,12 +11,17 @@
    <a href="https://www.youtube.com/channel/UCjpI-weZTSGThAeo8NI_PSA"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
    <a href="https://www.facebook.com/jhuniorr.anthhonyy"><img src="https://img.shields.io/badge/facebook-%23003E54.svg?style=for-the-badge&logo=facebook&logoColor=white"></a> 
    <a href="https://www.instagram.com/junior.calvo28/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a><br>
-   <a href="https://t.me/ambarja"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+   <a href=""><img src="https://img.shields.io/badge/slack-%2350162D.svg?style=for-the-badge&logo=slack&logoColor=white"></a> 
+   <a href=""><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+   <a href=""><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" ></a>
 </p>
 
-
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+   <a href=""><img src="https://img.shields.io/badge/-python-3670A0?style=for-the-badge&labelColor=black&logo=python&logoColor=ffdd54"></a>
+   <a href=""><img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"></a>
+   <a href=""><img src="https://img.shields.io/badge/-r-%23276DC3.svg?style=for-the-badge&labelColor=black&logo=r&logoColor=withe"></a>
+</p>
 
 
 <div style="display: flex;">
