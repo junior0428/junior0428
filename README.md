@@ -21,6 +21,8 @@
    <a href=""><img src="https://img.shields.io/badge/-python-3670A0?style=for-the-badge&labelColor=black&logo=python&logoColor=ffdd54"></a>
    <a href=""><img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"></a>
    <a href=""><img src="https://img.shields.io/badge/-r-%23276DC3.svg?style=for-the-badge&labelColor=black&logo=r&logoColor=withe"></a>
+   <a href=""><img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"></a>
+   <a href=""><img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 </p>
 
 
