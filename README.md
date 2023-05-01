@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+
    <a href=""><img src="https://img.shields.io/badge/-python-3670A0?style=for-the-badge&labelColor=black&logo=python&logoColor=ffdd54"></a>
    <a href=""><img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"></a>
    <a href=""><img src="https://img.shields.io/badge/-r-%23276DC3.svg?style=for-the-badge&labelColor=black&logo=r&logoColor=withe"></a>
@@ -25,7 +25,7 @@
    <a href=""><img src="https://img.shields.io/badge/vsc-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
    <a href=""><img src="https://img.shields.io/badge/googlecolab-%23F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white"></a>
    <a href=""><img src="https://img.shields.io/badge/rstudio-%2375AADB.svg?&style=for-the-badge&logo=rstudio&logoColor=black"></a>
-</p>
+
 
 
 <div style="display: flex;">
