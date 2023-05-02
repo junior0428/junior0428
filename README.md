@@ -26,7 +26,7 @@
    <a href=""><img src="https://img.shields.io/badge/googlecolab-%23F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white"></a>
    <a href=""><img src="https://img.shields.io/badge/rstudio-%2375AADB.svg?&style=for-the-badge&logo=rstudio&logoColor=black"></a>
 
-
+<h3 align="left">Book:</h3>
 
 <div style="display: flex;">
   <p align="center">
@@ -35,4 +35,49 @@
    </p>
 </div>
 
+## 📌 Workshops and publications 🗃️
+<table  style="font-family:Ubuntu;">
+  <tr align="center">
+   <th style="background-color:#110080;color:white"><center>Visualización y Análisis de datos geo-espaciales con R - Curso Brotes</center></th>
+   <th style="background-color: #110080;color:white"><center> Programando scripts de R para QGIS Processing</center></th>
+   <th style="background-color:#110080;color:white"><center>rgee applied epidemiological studies</center></th>
+   <th style="background-color: #110080;color:white"><center>Warming Stripes para las 24 regiones del Perú</th>
+  </tr>
+
+  <tr>
+   <th style="background:black"><center><a href="https://www.reconlearn.org/post/spatial-analysis-1-spanish.html" style="color:white;">Click aquí</a></center></th>
+   <th style="background:black"><center><a href="https://r-qgis.netlify.app/" style="color:white;">Click aquí</a></center></th>
+   <th style="background:black"><center><a href="https://epi-rgee.netlify.app/" style="color:white;">Click aquí</a></center></th>
+   <th style="background:black"><center><a href="https://healthinnovation.github.io/WarmingStripes4PE/" style="color:white;">Click aquí</a></center></th>
+  </tr>
+   <tr>
+   <th style="background:black"><center><a href="https://www.reconlearn.org/post/spatial-analysis-1-spanish.html" style="color:white;">Click aquí</a></center></th>
+   <th style="background:black"><center><a href="https://r-qgis.netlify.app/" style="color:white;">Click aquí</a></center></th>
+   <th style="background:black"><center><a href="https://epi-rgee.netlify.app/" style="color:white;">Click aquí</a></center></th>
+   <th style="background:black"><center><a href="https://healthinnovation.github.io/WarmingStripes4PE/" style="color:white;">Click aquí</a></center></th>
+  </tr>
+</table>
+
+<table style="background-color: blue;">
+  <tr>
+    <th>Ponencia</th>
+    <th>Fecha</th>
+    <th>Lugar</th>
+  </tr>
+  <tr>
+    <td>Ponencia 1</td>
+    <td>2023-06-15</td>
+    <td>Ciudad A</td>
+  </tr>
+  <tr>
+    <td>Ponencia 2</td>
+    <td>2023-07-20</td>
+    <td>Ciudad B</td>
+  </tr>
+  <tr>
+    <td>Ponencia 3</td>
+    <td>2023-08-10</td>
+    <td>Ciudad C</td>
+  </tr>
+</table>
 
