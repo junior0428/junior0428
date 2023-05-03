@@ -28,12 +28,15 @@
 
 <h3 align="left">Book:</h3>
 
+<a href="https://r-earthengine.com/rgeebook/"><img src="https://img.shields.io/badge/Google%20Earth%20Engine%20con%20R-Book-red"></a>
+
 <div style="display: flex;">
   <p align="center">
+     <img src="https://user-images.githubusercontent.com/51866276/235063064-64495e15-7f01-4edf-bdaa-bbf397254c29.png" alt="Descripción de la imagen 2" style="width: 20%;">
     <img src="https://user-images.githubusercontent.com/51866276/235061248-36767a6d-2d9b-4702-9078-a8c9f34266a9.png" alt="Descripción de la imagen 1" style="width: 70%;">
-   <img src="https://user-images.githubusercontent.com/51866276/235063064-64495e15-7f01-4edf-bdaa-bbf397254c29.png" alt="Descripción de la imagen 2" style="width: 20%;">
    </p>
 </div>
+
 
 ## 📌 Workshops and publications 🗃️
 <table  style="font-family:Ubuntu;">
@@ -58,26 +61,8 @@
   </tr>
 </table>
 
-<table style="background-color: blue;">
-  <tr>
-    <th>Ponencia</th>
-    <th>Fecha</th>
-    <th>Lugar</th>
-  </tr>
-  <tr>
-    <td>Ponencia 1</td>
-    <td>2023-06-15</td>
-    <td>Ciudad A</td>
-  </tr>
-  <tr>
-    <td>Ponencia 2</td>
-    <td>2023-07-20</td>
-    <td>Ciudad B</td>
-  </tr>
-  <tr>
-    <td>Ponencia 3</td>
-    <td>2023-08-10</td>
-    <td>Ciudad C</td>
-  </tr>
-</table>
+<h2 align="center">Workshops and presentations 📌</h2>
 
+<p width="100%" align="center">
+   <a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data"><img align="center" height="115" src="https://github-readme stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Data&theme=gotham"></a>
+</p>
