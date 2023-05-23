@@ -36,33 +36,3 @@
     <img src="https://user-images.githubusercontent.com/51866276/235061248-36767a6d-2d9b-4702-9078-a8c9f34266a9.png" alt="Descripción de la imagen 1" style="width: 70%;">
    </p>
 </div>
-
-
-## 📌 Workshops and publications 🗃️
-<table  style="font-family:Ubuntu;">
-  <tr align="center">
-   <th style="background-color:#110080;color:white"><center>Visualización y Análisis de datos geo-espaciales con R - Curso Brotes</center></th>
-   <th style="background-color: #110080;color:white"><center> Programando scripts de R para QGIS Processing</center></th>
-   <th style="background-color:#110080;color:white"><center>rgee applied epidemiological studies</center></th>
-   <th style="background-color: #110080;color:white"><center>Warming Stripes para las 24 regiones del Perú</th>
-  </tr>
-
-  <tr>
-   <th style="background:black"><center><a href="https://www.reconlearn.org/post/spatial-analysis-1-spanish.html" style="color:white;">Click aquí</a></center></th>
-   <th style="background:black"><center><a href="https://r-qgis.netlify.app/" style="color:white;">Click aquí</a></center></th>
-   <th style="background:black"><center><a href="https://epi-rgee.netlify.app/" style="color:white;">Click aquí</a></center></th>
-   <th style="background:black"><center><a href="https://healthinnovation.github.io/WarmingStripes4PE/" style="color:white;">Click aquí</a></center></th>
-  </tr>
-   <tr>
-   <th style="background:black"><center><a href="https://www.reconlearn.org/post/spatial-analysis-1-spanish.html" style="color:white;">Click aquí</a></center></th>
-   <th style="background:black"><center><a href="https://r-qgis.netlify.app/" style="color:white;">Click aquí</a></center></th>
-   <th style="background:black"><center><a href="https://epi-rgee.netlify.app/" style="color:white;">Click aquí</a></center></th>
-   <th style="background:black"><center><a href="https://healthinnovation.github.io/WarmingStripes4PE/" style="color:white;">Click aquí</a></center></th>
-  </tr>
-</table>
-
-<h2 align="center">Workshops and presentations 📌</h2>
-
-<p width="100%" align="center">
-   <a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data"><img align="center" height="115" src="https://github-readme stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Data&theme=gotham"></a>
-</p>
