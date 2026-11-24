@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="28" role="img" aria-label="OpenLayers">
+  <title>OpenLayers</title>
+  <rect width="128" height="28" rx="14" fill="#1F6B75"/>
+  <path d="M14,0 H28 V28 H14 A14,14 0 0 1 14,0 Z" fill="#111111"/>
+  <circle cx="14" cy="14" r="14" fill="#111111"/>
+  <image x="6" y="6" width="16" height="16" href="data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjZmZmIj48dGl0bGU+T3BlbmxheWVyczwvdGl0bGU+PHBhdGggZD0iTTIzLjcgMTMuMDhhMy40OTggMy40OTggMCAwIDEtMS4xMTkgMS42MTlsLTcuNDI2IDYuMTk2YTUuMTM3IDUuMTM3IDAgMCAxLTYuMzE3IDBMMS40MTIgMTQuN2EzLjU3OCAzLjU3OCAwIDAgMS0xLjEyLTEuNjIgMy4yOTggMy4yOTggMCAwIDAgMS4xMiAzLjYzOWw3LjQyNiA2LjE5NmE1LjEzNyA1LjEzNyAwIDAgMCA2LjMxNyAwbDcuNDI2LTYuMTk2YTMuMjk4IDMuMjk4IDAgMCAwIDEuMTItMy42MzlNOC44MzggMS4wODZhNS4xMzcgNS4xMzcgMCAwIDEgNi4zMTcgMGw3LjQyNiA2LjE5NmEzLjI5OCAzLjI5OCAwIDAgMSAwIDUuMjU4bC03LjQyNiA2LjE4N2E1LjEzNyA1LjEzNyAwIDAgMS02LjMxNyAwTDEuNDEyIDEyLjUzYTMuMjk4IDMuMjk4IDAgMCAxIDAtNS4yNDh6Ii8+PC9zdmc+"/>
+  <text x="78.0" y="18" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" font-weight="700" fill="#ffffff">OpenLayers</text>
+</svg>

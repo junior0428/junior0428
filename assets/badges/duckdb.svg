@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="97" height="28" role="img" aria-label="DuckDB">
+  <title>DuckDB</title>
+  <rect width="97" height="28" rx="14" fill="#FFF000"/>
+  <path d="M14,0 H28 V28 H14 A14,14 0 0 1 14,0 Z" fill="#111111"/>
+  <circle cx="14" cy="14" r="14" fill="#111111"/>
+  <image x="6" y="6" width="16" height="16" href="data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjZmZmIj48dGl0bGU+RHVja0RCPC90aXRsZT48cGF0aCBkPSJNMTIgMEM1LjM2MyAwIDAgNS4zNjMgMCAxMnM1LjM2MyAxMiAxMiAxMiAxMi01LjM2MyAxMi0xMlMxOC42MzcgMCAxMiAwek05LjUwMiA3LjAzYTQuOTc0IDQuOTc0IDAgMCAxIDQuOTcgNC45NyA0Ljk3NCA0Ljk3NCAwIDAgMS00Ljk3IDQuOTdBNC45NzQgNC45NzQgMCAwIDEgNC41MzIgMTJhNC45NzQgNC45NzQgMCAwIDEgNC45Ny00Ljk3em02LjU2MyAzLjE4M2gyLjM1MWMuOTggMCAxLjc4Ny43ODIgMS43ODcgMS43NjJzLS44MDcgMS43ODktMS43ODcgMS43ODloLTIuMzUxdi0zLjU1MXoiLz48L3N2Zz4="/>
+  <text x="62.5" y="18" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" font-weight="700" fill="#111111">DuckDB</text>
+</svg>

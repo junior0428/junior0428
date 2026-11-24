@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-hidden="true">
+  <circle cx="24" cy="24" r="24" fill="#fef9c3"/>
+  <g transform="translate(12.0,12.0) scale(1.0)" fill="none" stroke="#ca8a04" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" color="#ca8a04">
+    <rect x="7.25" y="7.25" width="9.5" height="9.5" rx="1.6"/>
+    <text x="12" y="13.85" text-anchor="middle" fill="#ca8a04" stroke="none" font-size="5.4" font-weight="700" font-family="ui-sans-serif, system-ui, sans-serif">AI</text>
+    <path d="M9.5 7.25V4.1"/><circle cx="9.5" cy="3.15" r="0.85"/>
+    <path d="M12 7.25V3.55"/><circle cx="12" cy="2.7" r="0.85"/>
+    <path d="M14.5 7.25V4.1"/><circle cx="14.5" cy="3.15" r="0.85"/>
+    <path d="M9.5 16.75V19.9"/><circle cx="9.5" cy="20.85" r="0.85"/>
+    <path d="M12 16.75V20.45"/><circle cx="12" cy="21.3" r="0.85"/>
+    <path d="M14.5 16.75V19.9"/><circle cx="14.5" cy="20.85" r="0.85"/>
+    <path d="M7.25 9.5H4.1"/><circle cx="3.15" cy="9.5" r="0.85"/>
+    <path d="M7.25 12H3.55"/><circle cx="2.7" cy="12" r="0.85"/>
+    <path d="M7.25 14.5H4.1"/><circle cx="3.15" cy="14.5" r="0.85"/>
+    <path d="M16.75 9.5H19.9"/><circle cx="20.85" cy="9.5" r="0.85"/>
+    <path d="M16.75 12H20.45"/><circle cx="21.3" cy="12" r="0.85"/>
+    <path d="M16.75 14.5H19.9"/><circle cx="20.85" cy="14.5" r="0.85"/>
+  </g>
+</svg>

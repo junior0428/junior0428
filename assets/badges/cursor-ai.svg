@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="28" role="img" aria-label="Cursor AI">
+  <title>Cursor AI</title>
+  <rect width="120" height="28" rx="14" fill="#000000"/>
+  <path d="M14,0 H28 V28 H14 A14,14 0 0 1 14,0 Z" fill="#111111"/>
+  <circle cx="14" cy="14" r="14" fill="#111111"/>
+  <image x="6" y="6" width="16" height="16" href="data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjZmZmIj48dGl0bGU+Q3Vyc29yPC90aXRsZT48cGF0aCBkPSJNMTEuNTAzLjEzMSAxLjg5MSA1LjY3OGEuODQuODQgMCAwIDAtLjQyLjcyNnYxMS4xODhjMCAuMy4xNjIuNTc1LjQyLjcyNGw5LjYwOSA1LjU1YTEgMSAwIDAgMCAuOTk4IDBsOS42MS01LjU1YS44NC44NCAwIDAgMCAuNDItLjcyNFY2LjQwNGEuODQuODQgMCAwIDAtLjQyLS43MjZMMTIuNDk3LjEzMWExLjAxIDEuMDEgMCAwIDAtLjk5NiAwTTIuNjU3IDYuMzM4aDE4LjU1Yy4yNjMgMCAuNDMuMjg3LjI5Ny41MTVMMTIuMjMgMjIuOTE4Yy0uMDYyLjEwNy0uMjI5LjA2NC0uMjI5LS4wNlYxMi4zMzVhLjU5LjU5IDAgMCAwLS4yOTUtLjUxbC05LjExLTUuMjU3Yy0uMTA5LS4wNjMtLjA2NC0uMjMuMDYxLS4yMyIvPjwvc3ZnPg=="/>
+  <text x="74.0" y="18" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" font-weight="700" fill="#ffffff">Cursor AI</text>
+</svg>

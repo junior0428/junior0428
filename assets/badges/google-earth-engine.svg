@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="196" height="28" role="img" aria-label="Google Earth Engine">
+  <title>Google Earth Engine</title>
+  <rect width="196" height="28" rx="14" fill="#4285F4"/>
+  <path d="M14,0 H28 V28 H14 A14,14 0 0 1 14,0 Z" fill="#111111"/>
+  <circle cx="14" cy="14" r="14" fill="#111111"/>
+  <image x="6" y="6" width="16" height="16" href="data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjZmZmIj48dGl0bGU+R29vZ2xlIEVhcnRoPC90aXRsZT48cGF0aCBkPSJNMTIgMGMtMS4zMjYgMC0yLjU5Ny4yMi0zLjc4Ny42MTMgNC45NC0xLjI0MyA4LjU3NSAxLjcyIDExLjA5NiA1LjYwNiAxLjcyNSAyLjY5NSAyLjgxMyAyLjgzIDQuMjA3IDIuNDEyQTExLjk1NiAxMS45NTYgMCAwMDEyIDB6TTcuNjU4IDIuMTU2Yy0xLjY0NC4wMTktMy4yOTUuNzc1LTQuOTMxIDIuMjA3QTExLjk2NyAxMS45NjcgMCAwMDAgMTJjLjE4NC0yLjgyMyAyLjE2My01LjEyOCA0Ljg3LTUuMDcgMi4xMDQuMDQ0IDQuNjQ4IDEuNTE4IDcuMTMgNS4yODkgNC44NyA3LjQ2OCAxMC45MTcgNS40ODMgMTEuODYzIDEuNTEuMDgxLS41NjYuMTM3LTEuMTQuMTM3LTEuNzI5IDAtLjE3Ni0uMDItLjM0Ny0uMDI3LS41MjEtMS42NDUgMS43MjUtNC44OTkgMi4zNS04LjI2NC0yLjk3LTIuNTktNC4zNjMtNS4zMS02LjM4My04LjA1LTYuMzUzek0zLjMzIDEzLjIzNmMtMS42NzUuMTMtMi42NTcgMS44MDQtMi4yNDIgMy43NTZBMTEuOTU1IDExLjk1NSAwIDAwMTIgMjRjNC4yMTUgMCA3Ljg5OC0yLjE0OSAxMC4wMzctNS40MTJ2LS4wNDNjLTIuODM2IDMuNDktOC45NDYgNC4yNTUtMTMuODU1LTIuMTgyLTEuODE0LTIuMzg2LTMuNTQ0LTMuMjI4LTQuODUyLTMuMTI3WiIvPjwvc3ZnPg=="/>
+  <text x="112.0" y="18" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" font-weight="700" fill="#ffffff">Google Earth Engine</text>
+</svg>

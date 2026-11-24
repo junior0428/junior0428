@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="105" height="28" role="img" aria-label="Angular">
+  <title>Angular</title>
+  <rect width="105" height="28" rx="14" fill="#DD0031"/>
+  <path d="M14,0 H28 V28 H14 A14,14 0 0 1 14,0 Z" fill="#111111"/>
+  <circle cx="14" cy="14" r="14" fill="#111111"/>
+  <image x="6" y="6" width="16" height="16" href="data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjZmZmIj48dGl0bGU+QW5ndWxhcjwvdGl0bGU+PHBhdGggZD0iTTE2LjcxMiAxNy43MTFINy4yODhsLTEuMjA0IDIuOTE2TDEyIDI0bDUuOTE2LTMuMzczLTEuMjA0LTIuOTE2Wk0xNC42OTIgMGw3LjgzMiAxNi44NTUuODE0LTEyLjg1NkwxNC42OTIgMFpNOS4zMDggMCAuNjYyIDMuOTk5bC44MTQgMTIuODU2TDkuMzA4IDBabS0uNDA1IDEzLjkzaDYuMTk4TDEyIDYuMzk2IDguOTAzIDEzLjkzWiIvPjwvc3ZnPg=="/>
+  <text x="66.5" y="18" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" font-weight="700" fill="#ffffff">Angular</text>
+</svg>
